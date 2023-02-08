@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World this is cc lab!";
+echo "Hello World this is cc lab now!";
 ?>
