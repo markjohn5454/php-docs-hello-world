@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World there !";
+echo "Hello World this is cc lab!";
